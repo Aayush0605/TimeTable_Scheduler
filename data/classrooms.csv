@@ -1,0 +1,6 @@
+room_id,name,capacity,availability,room_type
+R1,Room 101,50,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,lecture
+R2,Room 102,40,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,lab
+R3,Room 103,60,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,lecture
+R4,Room 104,30,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,lab
+R5,Room 105,50,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,lecture

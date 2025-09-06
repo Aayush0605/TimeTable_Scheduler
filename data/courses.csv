@@ -1,0 +1,9 @@
+course_id,name,department,teacher_id,class_size,class_id
+C1,Calculus,MT,T1,40,ClassA
+C2,Linear Algebra,MT,T2,30,ClassB
+C3,Digital Circuits,ET,T3,35,ClassC
+C4,Microelectronics,ET,T4,25,ClassD
+C5,Hospitality Management,HM,T5,30,ClassE
+C6,Tourism Marketing,BTTM,T6,25,ClassF
+C7,Fashion Design,FD,T7,20,ClassG
+C8,Pharmacology,Pharma,T8,30,ClassH

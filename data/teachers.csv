@@ -1,0 +1,9 @@
+teacher_id,name,department,subjects,availability,management_role,preferences
+T1,Prof. Jones,MT,Calculus|Physics,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,Dean of MT,"{'no_back_to_back': true, 'max_lectures': 5}"
+T2,Dr. Smith,MT,Linear Algebra,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
+T3,Dr. Patel,ET,Digital Circuits,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,HOD of ET,"{'no_back_to_back': true, 'max_lectures': 4}"
+T4,Prof. Brown,ET,Microelectronics,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
+T5,Ms. Khan,HM,Hospitality Management,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
+T6,Mr. Singh,BTTM,Tourism Marketing,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
+T7,Dr. Gupta,FD,Fashion Design,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
+T8,Prof. Sharma,Pharma,Pharmacology,Monday:9-16|Tuesday:9-16|Wednesday:9-16|Thursday:9-16|Friday:9-16,,"{'no_back_to_back': false, 'max_lectures': 5}"
