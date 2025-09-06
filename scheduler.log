@@ -1,0 +1,1058 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+2025-09-04 22:53:40,730 INFO __main__ Database initialized successfully
+2025-09-04 22:53:41,529 INFO __main__ All components initialized successfully
+2025-09-04 22:54:19,302 INFO __main__ Database initialized successfully
+2025-09-04 22:54:20,100 INFO __main__ All components initialized successfully
+2025-09-04 22:54:37,062 INFO __main__ Database initialized successfully
+2025-09-04 22:54:37,903 INFO __main__ All components initialized successfully
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+ERROR:root:Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+ERROR:root:Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+ERROR:root:Database init error: invalid literal for int() with base 10: ''
+DEBUG:root:Routes and utilities initialized
+ERROR:root:Error in db.create_all or init_demo_data: 'SQLALCHEMY_DATABASE_URI' config is not set. Bind key 'None' is not in 'SQLALCHEMY_BINDS' config.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Users initialized
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug:127.0.0.1 - - [05/Sep/2025 00:14:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Sep/2025 00:14:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+INFO:werkzeug:127.0.0.1 - - [05/Sep/2025 00:15:50] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Sep/2025 00:15:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Sep/2025 00:16:05] "[33mGET / HTTP/1.1[0m" 404 -
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+ERROR:root:Error in db.create_all or init_demo_data: (mysql.connector.errors.ProgrammingError) 1050 (42S01): Table 'users' already exists
+[SQL: 
+CREATE TABLE users (
+	id VARCHAR(50) NOT NULL, 
+	username VARCHAR(50) NOT NULL, 
+	password_hash VARCHAR(128) NOT NULL, 
+	`role` VARCHAR(20) NOT NULL, 
+	associated_id VARCHAR(50), 
+	department VARCHAR(10), 
+	email VARCHAR(100), 
+	PRIMARY KEY (id), 
+	UNIQUE (username)
+)
+
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+DEBUG:root:Tables created
+DEBUG:root:Teachers initialized
+DEBUG:root:Classrooms initialized
+DEBUG:root:Courses initialized
+DEBUG:root:Timetable initialized
+DEBUG:root:Users initialized
+DEBUG:root:Attendance initialized
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\timetable_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\timetable_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\timetable_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:App initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-090-891
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-260-971
+DEBUG:root:App initialized
+DEBUG:root:Database initialized
+DEBUG:root:Routes and utilities initialized
+DEBUG:root:Tables created
+DEBUG:root:Demo data initialized
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 518-420-548
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+2025-09-05 00:26:15,211 DEBUG: App initialized
+INFO:werkzeug: * Restarting with stat
+2025-09-05 00:26:15,301 DEBUG: Database initialized
+2025-09-05 00:26:15,301 DEBUG: Routes and utilities initialized
+INFO:werkzeug: * Restarting with stat
+2025-09-05 00:26:15,892 DEBUG: App initialized
+2025-09-05 00:26:15,974 DEBUG: Database initialized
+2025-09-05 00:26:15,974 DEBUG: Routes and utilities initialized
+2025-09-05 00:26:16,009 DEBUG: App initialized
+2025-09-05 00:26:16,067 DEBUG: Database initialized
+2025-09-05 00:26:16,067 DEBUG: Routes and utilities initialized
+2025-09-05 00:26:19,356 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:26:20,036 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:26:20,120 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:26:23,529 DEBUG: App initialized
+2025-09-05 00:26:23,585 DEBUG: Database initialized
+2025-09-05 00:26:23,585 DEBUG: Routes and utilities initialized
+2025-09-05 00:26:27,639 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:26:43,148 DEBUG: App initialized
+2025-09-05 00:26:43,213 DEBUG: Database initialized
+2025-09-05 00:26:43,214 DEBUG: Routes and utilities initialized
+2025-09-05 00:26:47,292 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:27:04,727 DEBUG: App initialized
+2025-09-05 00:27:04,784 DEBUG: Database initialized
+2025-09-05 00:27:04,784 DEBUG: Routes and utilities initialized
+2025-09-05 00:27:04,815 DEBUG: Tables created
+2025-09-05 00:27:04,833 DEBUG: Demo data initialized
+2025-09-05 00:27:04,843 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:27:04,843 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:32:23,622 DEBUG: App initialized
+2025-09-05 00:32:24,038 DEBUG: Database initialized
+2025-09-05 00:32:24,038 DEBUG: Routes and utilities initialized
+2025-09-05 00:32:28,092 ERROR: Error in db.create_all or init_demo_data: (mysql.connector.errors.DatabaseError) 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-09-05 00:33:00,046 DEBUG: App initialized
+2025-09-05 00:33:00,099 DEBUG: Database initialized
+2025-09-05 00:33:00,099 DEBUG: Routes and utilities initialized
+2025-09-05 00:33:00,140 DEBUG: Tables created
+2025-09-05 00:33:00,163 DEBUG: Demo data initialized
+2025-09-05 00:33:00,175 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:33:00,175 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:33:26,385 INFO: 127.0.0.1 - - [05/Sep/2025 00:33:26] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-05 00:33:28,132 INFO: 127.0.0.1 - - [05/Sep/2025 00:33:28] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-05 00:33:38,493 DEBUG: App initialized
+2025-09-05 00:33:38,555 DEBUG: Database initialized
+2025-09-05 00:33:38,555 DEBUG: Routes and utilities initialized
+2025-09-05 00:33:38,603 DEBUG: Tables created
+2025-09-05 00:33:38,629 DEBUG: Demo data initialized
+2025-09-05 00:33:38,631 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:33:38,631 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:34:15,356 DEBUG: App initialized
+2025-09-05 00:34:15,439 DEBUG: Database initialized
+2025-09-05 00:34:15,445 DEBUG: Routes and utilities initialized
+2025-09-05 00:34:15,488 DEBUG: Tables created
+2025-09-05 00:34:15,516 DEBUG: Demo data initialized
+2025-09-05 00:34:15,523 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:34:15,523 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:34:33,819 INFO: 127.0.0.1 - - [05/Sep/2025 00:34:33] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-05 00:35:31,607 DEBUG: App initialized
+2025-09-05 00:35:31,673 DEBUG: Database initialized
+2025-09-05 00:35:31,673 DEBUG: Routes and utilities initialized
+2025-09-05 00:35:31,685 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:35:31,685 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:38:43,352 DEBUG: App initialized
+2025-09-05 00:38:43,432 DEBUG: Database initialized
+2025-09-05 00:38:43,432 DEBUG: Routes and utilities initialized
+2025-09-05 00:38:43,606 DEBUG: Tables created
+2025-09-05 00:38:43,640 DEBUG: Demo data initialized
+2025-09-05 00:38:43,647 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:38:43,647 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:41:00,819 DEBUG: App initialized
+2025-09-05 00:41:00,879 DEBUG: Database initialized
+2025-09-05 00:41:00,879 DEBUG: Routes and utilities initialized
+2025-09-05 00:41:00,923 DEBUG: Tables created
+2025-09-05 00:41:00,948 DEBUG: Demo data initialized
+2025-09-05 00:41:00,958 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:41:00,958 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 00:42:46,264 DEBUG: App initialized
+2025-09-05 00:42:46,364 DEBUG: Database initialized
+2025-09-05 00:42:46,364 DEBUG: Routes and utilities initialized
+2025-09-05 00:42:46,427 DEBUG: Tables created
+2025-09-05 00:42:46,447 DEBUG: Demo data initialized
+2025-09-05 00:42:46,447 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 00:42:46,447 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 21:34:47,625 DEBUG: App initialized
+2025-09-05 21:34:47,816 DEBUG: Database initialized
+2025-09-05 21:34:47,816 DEBUG: Routes and utilities initialized
+2025-09-05 21:34:48,164 DEBUG: Tables created
+2025-09-05 21:34:48,196 DEBUG: Demo data initialized
+2025-09-05 21:34:48,212 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 21:34:48,212 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 21:52:34,942 DEBUG: App initialized
+2025-09-05 21:52:35,219 DEBUG: Database initialized
+2025-09-05 21:52:35,222 DEBUG: Routes and utilities initialized
+2025-09-05 21:52:35,385 DEBUG: Tables created
+2025-09-05 21:52:35,409 DEBUG: Demo data initialized
+2025-09-05 21:52:35,427 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 21:52:35,427 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 21:52:49,200 INFO: 127.0.0.1 - - [05/Sep/2025 21:52:49] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-05 21:59:15,159 DEBUG: App initialized
+2025-09-05 21:59:15,159 DEBUG: MySQL initialized
+2025-09-05 21:59:15,159 ERROR: Error initializing routes/utils: init_routes() takes 1 positional argument but 2 were given
+2025-09-05 21:59:37,621 DEBUG: App initialized
+2025-09-05 21:59:37,702 DEBUG: Database initialized
+2025-09-05 21:59:37,702 DEBUG: Routes and utilities initialized
+2025-09-05 21:59:37,763 DEBUG: Tables created
+2025-09-05 21:59:37,784 DEBUG: Demo data initialized
+2025-09-05 21:59:37,795 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 21:59:37,795 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:00:20,382 DEBUG: App initialized
+2025-09-05 22:00:20,411 DEBUG: Database initialized
+2025-09-05 22:00:20,411 DEBUG: Routes and utilities initialized
+2025-09-05 22:00:20,446 DEBUG: Tables created
+2025-09-05 22:00:20,472 DEBUG: Demo data initialized
+2025-09-05 22:00:20,486 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 22:00:20,486 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:00:20,490 INFO:  * Restarting with stat
+2025-09-05 22:00:21,162 DEBUG: App initialized
+2025-09-05 22:00:21,204 DEBUG: Database initialized
+2025-09-05 22:00:21,204 DEBUG: Routes and utilities initialized
+2025-09-05 22:00:21,255 DEBUG: Tables created
+2025-09-05 22:00:21,275 DEBUG: Demo data initialized
+2025-09-05 22:00:21,288 WARNING:  * Debugger is active!
+2025-09-05 22:00:21,292 INFO:  * Debugger PIN: 518-420-548
+2025-09-05 22:00:31,875 INFO: 127.0.0.1 - - [05/Sep/2025 22:00:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-05 22:05:45,452 DEBUG: App initialized
+2025-09-05 22:05:45,452 DEBUG: MySQL initialized
+2025-09-05 22:05:45,452 ERROR: Error initializing routes/utils: init_routes() takes 1 positional argument but 2 were given
+2025-09-05 22:06:03,313 DEBUG: App initialized
+2025-09-05 22:06:03,313 ERROR: Init error: init_routes() takes 1 positional argument but 2 were given
+2025-09-05 22:13:32,367 DEBUG: App initialized
+2025-09-05 22:13:32,540 DEBUG: Database initialized
+2025-09-05 22:13:32,540 DEBUG: Routes and utilities initialized
+2025-09-05 22:13:32,576 DEBUG: Tables created
+2025-09-05 22:13:32,608 DEBUG: Demo data initialized
+2025-09-05 22:13:32,622 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 22:13:32,622 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:13:49,159 INFO: 127.0.0.1 - - [05/Sep/2025 22:13:49] "GET / HTTP/1.1" 200 -
+2025-09-05 22:14:29,154 ERROR: Exception on /timetable [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:29,239 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:29] "[35m[1mGET /timetable HTTP/1.1[0m" 500 -
+2025-09-05 22:14:29,290 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-05 22:14:30,481 ERROR: Exception on /timetable [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:30,490 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:30] "[35m[1mGET /timetable HTTP/1.1[0m" 500 -
+2025-09-05 22:14:48,923 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:48,923 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:48] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:14:50,828 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:50,829 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:50] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:14:51,808 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:51,808 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:51] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:14:51,952 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:14:51,952 INFO: 127.0.0.1 - - [05/Sep/2025 22:14:51] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:15:50,265 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:15:50,268 INFO: 127.0.0.1 - - [05/Sep/2025 22:15:50] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:16:42,396 INFO: 127.0.0.1 - - [05/Sep/2025 22:16:42] "GET / HTTP/1.1" 200 -
+2025-09-05 22:16:42,890 INFO: 127.0.0.1 - - [05/Sep/2025 22:16:42] "GET / HTTP/1.1" 200 -
+2025-09-05 22:16:43,006 INFO: 127.0.0.1 - - [05/Sep/2025 22:16:43] "GET / HTTP/1.1" 200 -
+2025-09-05 22:16:43,208 INFO: 127.0.0.1 - - [05/Sep/2025 22:16:43] "GET / HTTP/1.1" 200 -
+2025-09-05 22:18:05,856 DEBUG: App initialized
+2025-09-05 22:18:05,959 DEBUG: Database initialized
+2025-09-05 22:18:05,959 DEBUG: Routes and utilities initialized
+2025-09-05 22:18:06,009 DEBUG: Tables created
+2025-09-05 22:18:06,042 DEBUG: Demo data initialized
+2025-09-05 22:18:06,059 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 22:18:06,059 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:18:13,585 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:18:13,589 INFO: 127.0.0.1 - - [05/Sep/2025 22:18:13] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:18:19,116 INFO: 127.0.0.1 - - [05/Sep/2025 22:18:19] "GET / HTTP/1.1" 200 -
+2025-09-05 22:18:20,502 INFO: 127.0.0.1 - - [05/Sep/2025 22:18:20] "GET / HTTP/1.1" 200 -
+2025-09-05 22:18:20,657 INFO: 127.0.0.1 - - [05/Sep/2025 22:18:20] "GET / HTTP/1.1" 200 -
+2025-09-05 22:23:57,882 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:23:57,882 INFO: 127.0.0.1 - - [05/Sep/2025 22:23:57] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:23:59,601 ERROR: Exception on /admin_dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 284, in decorated_view
+    elif not current_user.is_authenticated:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 311, in __get__
+    obj = instance._get_current_object()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\werkzeug\local.py", line 515, in _get_current_object
+    return get_name(local())  # type: ignore
+                    ^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+                                      ^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\utils.py", line 372, in _get_user
+    current_app.login_manager._load_user()
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask_login\login_manager.py", line 347, in _load_user
+    raise Exception(
+Exception: Missing user_loader or request_loader. Refer to http://flask-login.readthedocs.io/#how-it-works for more info.
+2025-09-05 22:23:59,601 INFO: 127.0.0.1 - - [05/Sep/2025 22:23:59] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-09-05 22:24:33,433 DEBUG: App initialized
+2025-09-05 22:24:33,513 DEBUG: Database initialized
+2025-09-05 22:24:33,513 DEBUG: Routes and utilities initialized
+2025-09-05 22:24:33,555 DEBUG: Tables created
+2025-09-05 22:24:33,586 DEBUG: Demo data initialized
+2025-09-05 22:24:33,609 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 22:24:33,609 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:24:33,610 INFO:  * Restarting with stat
+2025-09-05 22:24:34,280 DEBUG: App initialized
+2025-09-05 22:24:34,354 DEBUG: Database initialized
+2025-09-05 22:24:34,354 DEBUG: Routes and utilities initialized
+2025-09-05 22:24:34,399 DEBUG: Tables created
+2025-09-05 22:24:34,420 DEBUG: Demo data initialized
+2025-09-05 22:24:34,430 WARNING:  * Debugger is active!
+2025-09-05 22:24:34,436 INFO:  * Debugger PIN: 518-420-548
+2025-09-05 22:24:40,169 INFO: 127.0.0.1 - - [05/Sep/2025 22:24:40] "[33mGET /admin_dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:24:42,715 INFO: 127.0.0.1 - - [05/Sep/2025 22:24:42] "GET / HTTP/1.1" 200 -
+2025-09-05 22:25:17,163 DEBUG: App initialized
+2025-09-05 22:25:17,229 DEBUG: Database initialized
+2025-09-05 22:25:17,242 DEBUG: Routes and utilities initialized
+2025-09-05 22:25:17,280 DEBUG: Tables created
+2025-09-05 22:25:17,296 DEBUG: Demo data initialized
+2025-09-05 22:25:17,310 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-05 22:25:17,310 INFO: [33mPress CTRL+C to quit[0m
+2025-09-05 22:25:17,310 INFO:  * Restarting with stat
+2025-09-05 22:25:17,986 DEBUG: App initialized
+2025-09-05 22:25:18,072 DEBUG: Database initialized
+2025-09-05 22:25:18,072 DEBUG: Routes and utilities initialized
+2025-09-05 22:25:18,113 DEBUG: Tables created
+2025-09-05 22:25:18,138 DEBUG: Demo data initialized
+2025-09-05 22:25:18,149 WARNING:  * Debugger is active!
+2025-09-05 22:25:18,155 INFO:  * Debugger PIN: 518-420-548
+2025-09-05 22:25:24,063 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:24] "GET /login HTTP/1.1" 200 -
+2025-09-05 22:25:24,176 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:24] "GET /static/css/tech_theme.css HTTP/1.1" 200 -
+2025-09-05 22:25:29,496 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-05 22:25:29,541 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:29] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:25:29,578 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:29] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:40,477 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:40] "[32mGET /set_theme/normal HTTP/1.1[0m" 302 -
+2025-09-05 22:25:40,495 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:40] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:25:40,519 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:40] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:43,496 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:43] "GET /management/attendance HTTP/1.1" 200 -
+2025-09-05 22:25:43,528 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:43] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:45,971 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:45] "GET /management/dashboard HTTP/1.1" 200 -
+2025-09-05 22:25:46,000 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:46] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:47,841 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:47] "GET /management/attendance HTTP/1.1" 200 -
+2025-09-05 22:25:47,867 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:47] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:49,429 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:49] "GET /management/dashboard HTTP/1.1" 200 -
+2025-09-05 22:25:49,463 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:49] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:56,697 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:56] "[32mGET /management/timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:25:56,706 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:25:56,797 ERROR: Error in timetable route: 'str object' has no attribute 'name'
+Traceback (most recent call last):
+  File "C:\Project\scheduler\routes.py", line 86, in timetable
+    return render_template('timetable.html', timetable=timetable_list, theme='tech', role=current_user.role)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\templating.py", line 151, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\flask\templating.py", line 132, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Project\scheduler\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Project\scheduler\templates\timetable.html", line 35, in top-level template code
+    | {{ slot.day.ljust(10) }} | {{ slot.time.ljust(15) }} | {{ (slot.course.name if slot.course else 'Free/Break').ljust(20) }} | {{ (slot.teacher.name if slot.teacher else '-').ljust(15) }} | {{ (slot.room.name if slot.room else '-').ljust(10) }} | {{ (slot.class_id or '-').ljust(10) }} |{% if slot.conflicts > 0 %} (Conflict){% endif %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\scheduler\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'str object' has no attribute 'name'
+2025-09-05 22:25:56,859 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:56] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:25:56,889 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:56] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:25:58,584 INFO: 127.0.0.1 - - [05/Sep/2025 22:25:58] "GET / HTTP/1.1" 200 -
+2025-09-05 22:26:15,963 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:15] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:26:22,353 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:22] "[33mGET /admin_dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:26:44,174 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:44] "GET /login HTTP/1.1" 200 -
+2025-09-05 22:26:44,198 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:44] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:26:49,215 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-05 22:26:49,240 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:49] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:26:49,278 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:49] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:26:53,090 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:53] "GET /admin/add_user HTTP/1.1" 200 -
+2025-09-05 22:26:53,130 INFO: 127.0.0.1 - - [05/Sep/2025 22:26:53] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:27:35,582 INFO: 127.0.0.1 - - [05/Sep/2025 22:27:35] "[31m[1mPOST /admin/add_user HTTP/1.1[0m" 405 -
+2025-09-05 22:37:49,860 INFO:  * Detected change in 'C:\\Project\\scheduler\\routes.py', reloading
+2025-09-05 22:37:50,062 INFO:  * Restarting with stat
+2025-09-05 22:37:51,014 DEBUG: App initialized
+2025-09-05 22:37:51,111 DEBUG: Database initialized
+2025-09-05 22:37:51,121 DEBUG: Routes and utilities initialized
+2025-09-05 22:37:51,182 DEBUG: Tables created
+2025-09-05 22:37:51,218 DEBUG: Demo data initialized
+2025-09-05 22:37:51,234 WARNING:  * Debugger is active!
+2025-09-05 22:37:51,243 INFO:  * Debugger PIN: 518-420-548
+2025-09-05 22:37:58,154 INFO: 127.0.0.1 - - [05/Sep/2025 22:37:58] "[32mPOST /admin/add_user HTTP/1.1[0m" 302 -
+2025-09-05 22:37:58,175 INFO: 127.0.0.1 - - [05/Sep/2025 22:37:58] "GET /admin/add_user HTTP/1.1" 200 -
+2025-09-05 22:37:58,253 INFO: 127.0.0.1 - - [05/Sep/2025 22:37:58] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:38:24,624 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:24] "[32mPOST /admin/add_user HTTP/1.1[0m" 302 -
+2025-09-05 22:38:24,636 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:24] "GET /admin/add_user HTTP/1.1" 200 -
+2025-09-05 22:38:24,658 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:24] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:38:56,040 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:56] "GET / HTTP/1.1" 200 -
+2025-09-05 22:38:59,342 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:59] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:38:59,372 INFO: 127.0.0.1 - - [05/Sep/2025 22:38:59] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:02,916 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:02] "[32mGET /set_theme/normal HTTP/1.1[0m" 302 -
+2025-09-05 22:39:02,923 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:02] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:39:02,939 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:02] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:05,054 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:05] "GET /management/attendance HTTP/1.1" 200 -
+2025-09-05 22:39:05,082 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:05] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:08,788 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:08] "GET /management/dashboard HTTP/1.1" 200 -
+2025-09-05 22:39:08,812 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:08] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:11,988 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:11] "GET /admin/generate_timetable HTTP/1.1" 200 -
+2025-09-05 22:39:12,022 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:12] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:26,809 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:26] "[32mPOST /admin/generate_timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:39:26,826 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:39:26,835 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:26] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:39:26,870 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:26] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:34,129 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:34] "[32mPOST /admin/generate_timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:39:34,138 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:39:34,138 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:34] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:39:34,176 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:34] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:41,685 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:41] "[32mGET /set_theme/normal HTTP/1.1[0m" 302 -
+2025-09-05 22:39:41,699 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:39:41,699 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:41] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:39:41,719 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:41] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:43,434 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:39:43,434 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:43] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:39:43,455 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:43] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:45,921 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:45] "[32mGET /set_theme/normal HTTP/1.1[0m" 302 -
+2025-09-05 22:39:45,927 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:39:45,932 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:45] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:39:45,954 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:45] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:39:52,717 INFO: 127.0.0.1 - - [05/Sep/2025 22:39:52] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:40:00,059 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:00] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:40:06,946 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:06] "[33mGET /admin_dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:40:09,094 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:09] "[33mGET /admin_dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:40:14,284 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:14] "GET /login HTTP/1.1" 200 -
+2025-09-05 22:40:14,310 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:14] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:19,576 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-05 22:40:19,584 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:19] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:40:19,612 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:19] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:26,903 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:26] "GET /admin/upload_csv HTTP/1.1" 200 -
+2025-09-05 22:40:26,930 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:26] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:42,263 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:42] "[32mPOST /admin/upload_csv HTTP/1.1[0m" 302 -
+2025-09-05 22:40:42,273 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:42] "GET /admin/upload_csv HTTP/1.1" 200 -
+2025-09-05 22:40:42,288 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:42] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:46,821 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:46] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:40:46,843 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:46] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:48,598 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:48] "GET /admin/add_user HTTP/1.1" 200 -
+2025-09-05 22:40:48,606 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:48] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:50,087 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:50] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:40:50,106 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:50] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:52,052 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:52] "[32mGET /management/timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:40:52,062 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:40:52,062 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:52] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:40:52,080 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:52] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:40:54,097 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:54] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:40:58,552 INFO: 127.0.0.1 - - [05/Sep/2025 22:40:58] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:41:09,423 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:09] "[33mGET /admin HTTP/1.1[0m" 404 -
+2025-09-05 22:41:17,352 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:17] "GET /admin/generate_timetable HTTP/1.1" 200 -
+2025-09-05 22:41:17,368 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:17] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:41:20,300 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:20] "[32mPOST /admin/generate_timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:41:20,306 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:41:20,306 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:20] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:41:20,330 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:20] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:41:38,646 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:38] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:41:45,061 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:45] "[33mGET /admoin/dashboard HTTP/1.1[0m" 404 -
+2025-09-05 22:41:50,745 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:50] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-05 22:41:50,766 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:50] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:41:54,900 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:54] "[32mGET /management/timetable HTTP/1.1[0m" 302 -
+2025-09-05 22:41:54,908 DEBUG: User ADMIN-MT-001 accessed timetable. Found 2 entries.
+2025-09-05 22:41:54,909 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:54] "GET /timetable HTTP/1.1" 200 -
+2025-09-05 22:41:54,927 INFO: 127.0.0.1 - - [05/Sep/2025 22:41:54] "[36mGET /static/css/tech_theme.css HTTP/1.1[0m" 304 -
+2025-09-05 22:45:32,790 INFO:  * Detected change in 'C:\\Project\\scheduler\\app.py', reloading
+2025-09-05 22:45:32,954 INFO:  * Restarting with stat
+2025-09-05 22:45:48,632 INFO:  * Restarting with stat
+2025-09-05 22:46:09,419 INFO:  * Restarting with stat
