@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard - Smart Classroom Scheduler</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/' + theme + '_theme.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Smart Classroom Scheduler</a>
+            <div class="navbar-nav">
+                <a class="nav-link" href="/admin/generate_timetable">Generate Timetable</a>
+                <a class="nav-link" href="/admin/add_user">Add User</a>
+                <a class="nav-link" href="/admin/upload_csv">Upload CSV</a>
+                <a class="nav-link" href="/management/timetable">View Timetables</a>
+                <a class="nav-link" href="/management/attendance">Attendance Overview</a>
+                <select onchange="window.location.href='/set_theme/' + this.value" class="form-select">
+                    <option value="tech" {% if theme == 'tech' %}selected{% endif %}>Tech Theme</option>
+                    <option value="normal" {% if theme == 'normal' %}selected{% endif %}>Normal Theme</option>
+                </select>
+                <a class="nav-link" href="/logout">Logout</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>Admin Dashboard</h2>
+        <p>Welcome, {{ current_user.username }}</p>
+        <div class="row">
+            <div class="col-md-3">
+                <a href="/admin/generate_timetable" class="btn btn-success">Generate Timetable</a>
+            </div>
+            <div class="col-md-3">
+                <a href="/admin/add_user" class="btn btn-success">Add User</a>
+            </div>
+            <div class="col-md-3">
+                <a href="/admin/upload_csv" class="btn btn-success">Upload CSV</a>
+            </div>
+            <div class="col-md-3">
+                <a href="/management/timetable" class="btn btn-success">View Timetables</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
